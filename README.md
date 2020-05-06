@@ -1,6 +1,6 @@
 # Android-permissions-chart
 
-Shows android apps permission usage statistic
+Parses apk files and draws a chart with permission usage statistic
 
 requirements: matplotlib, numpy, aapt
 
